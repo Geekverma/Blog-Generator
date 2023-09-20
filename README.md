@@ -28,7 +28,7 @@ Follow these steps to use the AI Blog Post Generator:
 Run the Script: Open a terminal or command prompt, navigate to the directory where the script is located, and run the script using Python:
 
 '''
-python blog_post_generator.py
+python my_agent.py
 '''
 
 **Input Topic**: The script will prompt you to enter the topic for the blog post. Provide a descriptive topic related to science, culture, astronomy, society, or religion.
